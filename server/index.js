@@ -9,7 +9,7 @@ const cors = require("cors");
 app.use(cors());
 
 app.use(express.json());
-app.use(jwtAuth);
+//app.use(jwtAuth);
 app.use("/users", userRouter);
 app.use("/quotes", quoteRouter);
 
