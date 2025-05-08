@@ -1,5 +1,12 @@
 {
     "cSpell.words": [
-        "jwtauth"
+        "apiresult",
+        "byemail",
+        "changepassword",
+        "dbpool",
+        "jwtauth",
+        "phoneno",
+        "Unauthoized",
+        "updateuser"
     ]
 }
